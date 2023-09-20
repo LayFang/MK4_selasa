@@ -1,0 +1,29 @@
+.tajuk {
+    width: 720px;
+    margin: auto;
+}
+
+.form {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.tahun {
+    width: 60px;
+}
+
+.kal {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.kal td {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.kal th, .kal td {
+    border: 1px solid;
+}
+
